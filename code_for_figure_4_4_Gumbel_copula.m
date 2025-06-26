@@ -1,4 +1,4 @@
-%Figure 4.3 Gumbel copula when \alpha=1
+%Figure 4.3 Gumbel copula when \alpha=1.5
 clear all
 clc 
 
